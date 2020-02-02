@@ -12,6 +12,9 @@ Daca ati folosit bucati de cod din alte proiecte, rog aici sa specificati ce anu
 
 Am folosit bucati de cod de la James Montemagno respectiv Eduardo Rosas
 https://github.com/LaloCo?after=Y3Vyc29yOjMw&language=&q=xamarin&tab=repositories&utf8=%E2%9C%93
+
 https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.textcell?view=xamarin-forms
+
 https://www.youtube.com/watch?v=JhWwBOoqXQ8
+
 https://github.com/jamesmontemagno
