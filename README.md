@@ -22,8 +22,6 @@ https://github.com/LaloCo?after=Y3Vyc29yOjMw&language=&q=xamarin&tab=repositorie
 
 https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.textcell?view=xamarin-forms
 
-https://www.youtube.com/watch?v=JhWwBOoqXQ8
-
 https://github.com/jamesmontemagno
 
 
