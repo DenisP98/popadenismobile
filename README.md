@@ -20,5 +20,5 @@ https://www.youtube.com/watch?v=JhWwBOoqXQ8
 https://github.com/jamesmontemagno
 
 
-Inline-style: 
+Screenshot aplicatie: 
 ![alt text](https://github.com/DenisP98/popadenismobile/blob/master/PrintProiect.png "Logo Title Text 1")
