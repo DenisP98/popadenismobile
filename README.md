@@ -22,3 +22,7 @@ https://github.com/jamesmontemagno
 
 Screenshot aplicatie: 
 ![alt text](https://github.com/DenisP98/popadenismobile/blob/master/PrintProiect.png "Logo Title Text 1")
+
+![alt text](https://github.com/DenisP98/popadenismobile/blob/master/PrintProiect2.png "Logo Title Text 2")
+
+![alt text](https://github.com/DenisP98/popadenismobile/blob/master/PrintProiect3.png "Logo Title Text 3")
