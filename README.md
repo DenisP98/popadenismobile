@@ -18,3 +18,7 @@ https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.textcell?view=xamarin-
 https://www.youtube.com/watch?v=JhWwBOoqXQ8
 
 https://github.com/jamesmontemagno
+
+
+Inline-style: 
+![alt text](https://github.com/DenisP98/popadenismobile/blob/master/PrintProiect.png "Logo Title Text 1")
